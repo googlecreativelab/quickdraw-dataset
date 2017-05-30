@@ -64,10 +64,14 @@ We've simplified the vectors, removed the timing information, and positioned and
 3. Resample all strokes with a 1 pixel spacing.
 4. Simplify all strokes using the [Ramer–Douglas–Peucker algorithm](https://en.wikipedia.org/wiki/Ramer%E2%80%93Douglas%E2%80%93Peucker_algorithm) with an epsilon value of 2.0.
 
+There is an example in [examples/nodejs/simplified-parser.js](examples/nodejs/simplified-parser.js) showing how to read ndjson files in NodeJS.  
+Additionally, the [examples/nodejs/ndjson.md](examples/nodejs/ndjson.md) document details a set of command-line tools that can help explore subsets of these quite large files.
+
 #### Binary files (`.bin`)
 The simplified drawings and metadata are also available in a custom binary format for efficient compression and loading.
 
-There is in example in [examples/binary_file_parser.py](examples/binary_file_parser.py) showing how to load the binary file in Python.
+There is an example in [examples/binary_file_parser.py](examples/binary_file_parser.py) showing how to load the binary files in Python.  
+There is also an example in [examples/nodejs/binary-parser.js](examples/nodejs/binary-parser.js) showing how to read the binary files in NodeJS.
 
 #### Numpy bitmaps (`.npy`)
 All the simplified drawings have been rendered into a 28x28 grayscale bitmap in numpy `.npy` format. The files can be loaded with [`np.load()`](https://docs.scipy.org/doc/numpy-1.12.0/reference/generated/numpy.load.html). These images were generated from the simplified data, but are aligned to the center of the drawing's bounding box rather than the top-left corner.
