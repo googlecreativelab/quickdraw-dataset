@@ -1,0 +1,20 @@
+{
+  "name": "quickdraw-node-demos",
+  "version": "0.0.1",
+  "description": "Sample code for parsing Quick, Draw! dataset in NodeJS",
+  "main": "simplified-parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ian Johnson (enjalot@google.com)",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "binary-parser": "^1.1.5",
+    "javascript-biginteger": "^0.9.2",
+    "ndjson": "^1.5.0"
+  },
+  "devDependencies": {
+    "d3": "^4.9.1",
+    "ndjson-cli": "^0.3.0"
+  }
+}
