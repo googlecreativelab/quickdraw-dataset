@@ -7,6 +7,15 @@ We're sharing them here for developers, researchers, and artists to explore, stu
 
 Please keep in mind that while this collection of drawings was individually moderated, it may still contain inappropriate content.
 
+## Content
+- [The raw moderated dataset](#the-raw-moderated-dataset)
+- [Preprocessed dataset](#preprocessed-dataset)
+- [Get the data](#get-the-data)
+- [Projects using the dataset](#projects-using-the-dataset)
+- [Changes](#changes)
+- [License](#license)
+
+
 ## The raw moderated dataset
 The raw data is available as [`ndjson`](http://ndjson.org/) files seperated by category, in the following format: 
 
@@ -86,7 +95,6 @@ The dataset is available on Google Cloud Storage as [`ndjson`](http://ndjson.org
 - [Numpy bitmap files](https://console.cloud.google.com/storage/quickdraw_dataset/full/numpy_bitmap) (`.npy`)
 
 #### Sketch-RNN QuickDraw Dataset
-
 This data is also used for training the [Sketch-RNN](https://arxiv.org/abs/1704.03477) model.  An open source, TensorFlow implementation of this model is available in the [Magenta Project](https://magenta.tensorflow.org/sketch_rnn), (link to GitHub [repo](https://github.com/tensorflow/magenta/tree/master/magenta/models/sketch_rnn)).  You can also read more about this model in this Google Research [blog post](https://research.googleblog.com/2017/04/teaching-machines-to-draw.html).  The data is stored in compressed `.npz` files, in a format suitable for inputs into a recurrent neural network.
 
 In this dataset, 75K samples (70K Training, 2.5K Validation, 2.5K Test) has been randomly selected from each category, processed with [RDP](https://en.wikipedia.org/wiki/Ramer%E2%80%93Douglas%E2%80%93Peucker_algorithm) line simplification with an `epsilon` parameter of 2.0.  Each category will be stored in its own `.npz` file, for example, `cat.npz`.
@@ -94,6 +102,30 @@ In this dataset, 75K samples (70K Training, 2.5K Validation, 2.5K Test) has been
 We have also provided the full data for each category, if you want to use more than 70K training examples.  These are stored with the `.full.npz` extensions.
 
 - [Numpy .npz files](https://console.cloud.google.com/storage/quickdraw_dataset/sketchrnn)
+
+## Projects using the dataset
+Here are some projects and experiments that are using or featuring the dataset in interesting ways. Got something to add? [Let us know!](mailto:quickdraw-support@google.com)
+
+Creative and artistic projects
+
+- [Letter collages](http://frauzufall.de/en/2017/google-quick-draw/) by [Deborah Schmidt](http://frauzufall.de/)
+- [Face tracking experiment](https://www.instagram.com/p/BUU8TuQD6_v/) by [Neil Mendoza](http://www.neilmendoza.com/)
+- [Faces of Humanity](http://project.laboiteatortue.com/facesofhumanity/) by [Tortue](www.laboiteatortue.com)
+
+Data analyses
+
+- [How do you draw a circle?](https://qz.com/994486/the-way-you-draw-circles-says-a-lot-about-you/) by [Quartz](https://qz.com/)
+- [Forma Fluens](http://formafluens.io/) by [Mauro Martino](http://www.mamartino.com/), [Hendrik Strobelt](http://hendrik.strobelt.com/) and [Owen Cornec](http://www.byowen.com/)
+- [How Long Does it Take to (Quick) Draw a Dog?](http://vallandingham.me/quickdraw/) by [Jim Vallandingham](http://vallandingham.me/)
+- [Finding bad flamingo drawings with recurrent neural networks](http://colinmorris.github.io/blog/bad_flamingos) by [Colin Morris](http://colinmorris.github.io/)
+- [Facets Dive x Quick, Draw!](https://pair-code.github.io/facets/quickdraw.html) by [People + AI Research Initiative (PAIR), Google](https://ai.google/pair)
+
+Code and tools
+
+- [Quick, Draw! prediction model](https://github.com/keisukeirie/quickdraw_prediction_model) by Keisuke Irie 
+- [Random sample tool](http://learning.statistics-is-awesome.org/draw/) by [Learning statistics is awesome](http://learning.statistics-is-awesome.org/)
+- [SVG rendering in d3.js example](https://bl.ocks.org/enjalot/a2b28f0ed18b891f9fb70910f1b8886d) by [Ian Johnson](http://enja.org/) (read more about the process [here](https://gist.github.com/enjalot/54c4342eb7527ea523884dbfa52d174b))
+
 
 ## Changes
 
