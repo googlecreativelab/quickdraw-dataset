@@ -126,6 +126,7 @@ Here are some projects and experiments that are using or featuring the dataset i
 - [Quick, Draw! prediction model](https://github.com/keisukeirie/quickdraw_prediction_model) by Keisuke Irie 
 - [Random sample tool](http://learning.statistics-is-awesome.org/draw/) by [Learning statistics is awesome](http://learning.statistics-is-awesome.org/)
 - [SVG rendering in d3.js example](https://bl.ocks.org/enjalot/a2b28f0ed18b891f9fb70910f1b8886d) by [Ian Johnson](http://enja.org/) (read more about the process [here](https://gist.github.com/enjalot/54c4342eb7527ea523884dbfa52d174b))
+- [Sketch-RNN Classification](https://github.com/payalbajaj/sketch_rnn_classification) by Payal Bajaj
 
 
 ## Changes
