@@ -120,6 +120,7 @@ Here are some projects and experiments that are using or featuring the dataset i
 - [How Long Does it Take to (Quick) Draw a Dog?](http://vallandingham.me/quickdraw/) by [Jim Vallandingham](http://vallandingham.me/)
 - [Finding bad flamingo drawings with recurrent neural networks](http://colinmorris.github.io/blog/bad_flamingos) by [Colin Morris](http://colinmorris.github.io/)
 - [Facets Dive x Quick, Draw!](https://pair-code.github.io/facets/quickdraw.html) by [People + AI Research Initiative (PAIR), Google](https://ai.google/pair)
+- [Exploring and Visualizing an Open Global Dataset](https://research.googleblog.com/2017/08/exploring-and-visualizing-open-global.html) by Google Research
 
 *Code and tools*
 
