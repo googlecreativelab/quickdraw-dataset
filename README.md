@@ -123,7 +123,7 @@ Here are some projects and experiments that are using or featuring the dataset i
 - [Exploring and Visualizing an Open Global Dataset](https://research.googleblog.com/2017/08/exploring-and-visualizing-open-global.html) by Google Research
 
 *Code and tools*
-
+- [Quick, Draw for Processing](https://github.com/codybenlewis/Quick-Draw-for-Processing) by [Cody Ben Lewis](https://twitter.com/CodyBenLewis)
 - [Quick, Draw! prediction model](https://github.com/keisukeirie/quickdraw_prediction_model) by Keisuke Irie 
 - [Random sample tool](http://learning.statistics-is-awesome.org/draw/) by [Learning statistics is awesome](http://learning.statistics-is-awesome.org/)
 - [SVG rendering in d3.js example](https://bl.ocks.org/enjalot/a2b28f0ed18b891f9fb70910f1b8886d) by [Ian Johnson](http://enja.org/) (read more about the process [here](https://gist.github.com/enjalot/54c4342eb7527ea523884dbfa52d174b))
