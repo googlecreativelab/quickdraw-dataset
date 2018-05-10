@@ -272,18 +272,18 @@ con rắn
 bông tuyết
 người tuyết
 bóng đá
-bít tất
+vớ , tất
 tàu cao tốc
 con nhện
 cái thìa
 bảng tính
 hình vuông
-ngoằn ngoèo
+loằng ngoằng
 con sóc
 bật thang
 ngôi sao
-miếng bò hầm
-âm thanh nổi
+thịt bò bít tết
+âm thanh lớn
 ống nghe
 mũi khâu
 biển báo dừng
@@ -321,12 +321,12 @@ máy kéo
 đèn giao thông
 xe lửa
 cây
-Tam giác
+hìn tam giác
 trombone
 xe tải
 kèn
 Áo thun
-ô
+cây dù
 đồ lót
 van
 cái bình hoa
@@ -342,4 +342,4 @@ ly rượu
 đồng hồ đeo tay
 yoga
 ngựa rằn
-ngoằn ngoèo
+hình zíc zắc
