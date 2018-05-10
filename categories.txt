@@ -50,7 +50,7 @@ bụi cây
 con bướm
 cây xương rồng
 bánh ngọt
-máy tính
+máy tính toán
 lịch
 con lạc đà
 máy ảnh
@@ -64,7 +64,7 @@ cà rốt
 lâu đài
 con mèo
 quạt trần
-đàn vi-ô-lông
+cello đàn vi-ô-lông-xen
 điện thoại di động
 cái ghế
 đèn treo
@@ -284,10 +284,10 @@ bật thang
 ngôi sao
 thịt bò bít tết
 âm thanh lớn
-ống nghe
+ống nghe mạch đập (y học)
 mũi khâu
 biển báo dừng
-bếp
+bếp lò
 dâu tây
 đèn đường
 đậu que
@@ -296,16 +296,16 @@ va li
 mặt trời
 Thiên nga
 áo len
-bộ đu
+xích đu
 thanh kiếm
-ống tiêm
-bàn
+ống tiêm thuốc
+cái bàn
 ấm trà
 gấu bông
 Điện thoại
 cái ti vi
 vợt tennis
-lều
+cái lều
 Tháp Eiffel
 Vạn Lý Trường Thành
 Mona Lisa
@@ -316,22 +316,22 @@ phòng vệ sinh
 răng
 Bàn chải đánh răng
 kem đánh răng
-vòi rồng
-máy kéo
+gió xoáy,vòi rồng
+tractor (xe kéo)
 đèn giao thông
 xe lửa
 cây
-hìn tam giác
-trombone
+hình tam giác
+kèn trombone
 xe tải
-kèn
+kèn trumpet
 Áo thun
 cây dù
 đồ lót
-van
+xe van
 cái bình hoa
-đàn vi ô lông
-may giặt
+đàn vi-ô-lông
+máy giặt
 dưa hấu
 trượt nước
 cá voi
@@ -341,5 +341,5 @@ chai rượu
 ly rượu
 đồng hồ đeo tay
 yoga
-ngựa rằn
+ngựa vằn
 hình zíc zắc
