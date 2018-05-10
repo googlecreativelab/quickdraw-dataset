@@ -22,7 +22,7 @@ con dơi
 bồn tắm
 bãi biển
 con gấu
-râu ria
+râu
 cái giường
 con ong
 dây nịt
@@ -88,22 +88,22 @@ tàu du lịch
 cái chén
 kim cương
 máy rửa chén
-Ván nhảy (ở bể bơi)
+Ván nhảy ở bể bơi
 con chó
 cá heo
 bánh donut
 cửa
 con rồng
-tủ có ngăng kéo
+cái tủ có ngăng kéo
 máy khoan
 cái trống
 con vịt
-chuông hư
+cái chuông bị hư
 tai
 khuỷu tay
 con voi
 phong bì
-cục tẩy
+cục tẩy (gôm)
 mắt
 mắt kính
 face (mặt)
@@ -116,16 +116,16 @@ lò sưởi
 xe cứu hỏa
 con cá
 Chim hồng hạc
-đèn pin chiếu sáng
+đèn pin
 dép lào
-Đèn đứng (ở sàn)
+Đèn đứng
 hoa
 đĩa bay
-cái chân
+bàn chân
 Cái nĩa
 con ếch
 cái chảo
-vườn
+khu vườn
 vòi tưới cây
 Hươu cao cổ
 goatee (râu dê xòm)
@@ -178,55 +178,55 @@ tôm càng
 kẹo mút
 hộp thư
 bản đồ
-marker
-matches
-megaphone
-mermaid
-microphone
-microwave
-monkey
-moon
-mosquito
-motorbike
-mountain
-mouse
-moustache
-mouth
-mug
-mushroom
-nail
-necklace
-nose
-ocean
-octagon
-octopus
-onion
-oven
-owl
-paintbrush
-paint can
-palm tree
-panda
-pants
-paper clip
-parachute
-parrot
-passport
-peanut
-pear
-peas
-pencil
-penguin
-piano
-pickup truck
-picture frame
-pig
-pillow
-pineapple
-pizza
-pliers
-police car
-pond
+mục tiêu
+diêm
+loa phóng thanh
+mỹ nhân ngư
+cái mic-rô
+lò vi sóng
+con khỉ
+mặt trăng
+con muỗi
+xe máy
+núi
+chuột
+râu mép
+cái miệng
+cái ca
+cây nấm
+làm móng tay
+dây chuyền
+cái mũi
+đại dương
+hình bát giác
+bạch tuộc
+củ hành
+oven (lò hấp bánh)
+chim cú
+cây cọ vẽ tranh
+thùng sơn
+cây cau
+gấu trúc
+cái quần
+cái kẹp giấy
+nhảy dù
+con chim vẹt
+hộ chiếu
+đậu phộng
+quả lê
+đậu hà lan
+bút chì
+chim cánh cụt
+đàn piano
+xe bán tải
+khung hình
+con heo
+cái gối
+quả dứa
+bánh pizza
+cái kìm
+xe cảnh sát
+cái ao
 pool
 popsicle
 postcard
