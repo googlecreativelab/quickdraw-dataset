@@ -1,25 +1,25 @@
-aircraft carrier
-airplane
-alarm clock
-ambulance
-angel
-animal migration
-ant
-anvil
-apple
-arm
-asparagus
-axe
-backpack
-banana
-bandage
-barn
-baseball
-baseball bat
-basket
-basketball
-bat
-bathtub
+sân tàu bay
+máy bay
+đồng hồ báo thức
+xe cứu thương
+Thiên thần
+động vật di cư
+con kiến
+cái đe (thợ rèn hay dùng)
+quả táo
+tay
+măng tre
+cái rìu
+ba lô
+quả chuối
+băng cứu thương
+cái chuồng
+bóng chày
+gậy bóng chày
+cái rổ (giỏ)
+bóng rổ
+con dơi
+b
 beach
 bear
 beard
