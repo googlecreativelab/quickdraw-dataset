@@ -7,7 +7,7 @@ Thiên thần
 con kiến
 cái đe (thợ rèn hay dùng)
 quả táo
-tay
+cánh tay
 măng tre
 cái rìu
 ba lô
@@ -136,48 +136,48 @@ bãi cỏ
 hamburger
 cái búa
 bàn tay
-harp
-hat
-headphones
-hedgehog
-helicopter
-helmet
-hexagon
-hockey puck
-hockey stick
-horse
-hospital
-hot air balloon
-hot dog
-hot tub
-hourglass
-house
-house plant
-hurricane
-ice cream
-jacket
-jail
-kangaroo
-key
-keyboard
-knee
-knife
-ladder
-lantern
+hạc cầm (đàn hạc)
+cái nón
+tai nghe
+con nhím
+Máy bay trực thăng
+mũ bảo hiểm
+hình lục giác
+khúc côn cầu (giống nắp chai)
+gậy chơi khúc côn cầu
+con ngựa
+bệnh viện
+khinh khí cầu
+hot dog (bánh mì kẹp xúc xích)
+bồn tắm nước nóng
+đồng hồ cát
+cái nhà
+cây trồng trong nhà
+bão, lốc xoáy
+ly kem
+áo vét
+nhà tù
+kangaroo (chuột túi)
+chìa khóa
+bàn phím
+đầu gối
+con dao
+cái thang
+đèn lồng
 laptop
-leaf
-leg
-light bulb
-lighter
-lighthouse
-lightning
-line
-lion
-lipstick
-lobster
-lollipop
-mailbox
-map
+lá cây
+cái chân
+bóng đèn
+đồ bật lửa
+hải đăng
+sấm sét
+dòng kẽ
+sư tử
+son môi
+tôm càng
+kẹo mút
+hộp thư
+bản đồ
 marker
 matches
 megaphone
