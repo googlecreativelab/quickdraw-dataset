@@ -3,7 +3,7 @@
 The [Quick, Draw! dataset](https://github.com/googlecreativelab/quickdraw-dataset) uses
 [ndjson](https://github.com/maxogden/ndjson) as one of the formats to store its millions of drawings.
 
-We can use the [ndjons-cli](https://github.com/mbostock/ndjson-cli) utility to quickly create interesting subsets of this dataset.
+We can use the [ndjson-cli](https://github.com/mbostock/ndjson-cli) utility to quickly create interesting subsets of this dataset.
 
 The drawings (stroke data and associated metadata) are stored as one JSON object per line. e.g.:
 ```js
