@@ -133,6 +133,8 @@ Here are some projects and experiments that are using or featuring the dataset i
 - [SVG rendering in d3.js example](https://bl.ocks.org/enjalot/a2b28f0ed18b891f9fb70910f1b8886d) by [Ian Johnson](http://enja.org/) (read more about the process [here](https://gist.github.com/enjalot/54c4342eb7527ea523884dbfa52d174b))
 - [Sketch-RNN Classification](https://github.com/payalbajaj/sketch_rnn_classification) by Payal Bajaj
 - [quickdraw.js](https://github.com/wagenaartje/quickdraw.js) by Thomas Wagenaar
+- [~ Doodler ~](https://github.com/krishnasriSomepalli/cs50-project/) by [
+Krishna Sri Somepalli](https://krishnasrisomepalli.github.io/)
 
 
 ## Changes
