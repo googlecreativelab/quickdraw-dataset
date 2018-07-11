@@ -115,6 +115,7 @@ Here are some projects and experiments that are using or featuring the dataset i
 - [Faces of Humanity](http://project.laboiteatortue.com/facesofhumanity/) by [Tortue](www.laboiteatortue.com)
 - [Infinite QuickDraw](https://kynd.github.io/infinite_quickdraw/) by [kynd.info](http://kynd.info)
 - [Misfire.io](http://misfire.io/) by Matthew Collyer
+- [Draw This](http://danmacnish.com/2018/07/01/draw-this/) by [Dan Macnish](http://danmacnish.com/)
 
 *Data analyses*
 
