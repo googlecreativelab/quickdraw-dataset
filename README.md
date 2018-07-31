@@ -5,7 +5,7 @@ The Quick Draw Dataset is a collection of 50 million drawings across [345 catego
 
 We're sharing them here for developers, researchers, and artists to explore, study, and learn from. If you create something with this dataset, please let us know [by e-mail](mailto:quickdraw-support@google.com) or at [A.I. Experiments](https://aiexperiments.withgoogle.com/submit).
 
-We have also released a tutorial and model for training your own drawing classifier on [tensorflow.org](https://www.tensorflow.org/versions/master/tutorials/recurrent_quickdraw).
+We have also released a tutorial and model for training your own drawing classifier on [tensorflow.org](https://www.tensorflow.org/tutorials/sequences/recurrent_quickdraw).
 
 Please keep in mind that while this collection of drawings was individually moderated, it may still contain inappropriate content.
 
