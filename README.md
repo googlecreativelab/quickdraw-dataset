@@ -127,7 +127,7 @@ Here are some projects and experiments that are using or featuring the dataset i
 - [Exploring and Visualizing an Open Global Dataset](https://research.googleblog.com/2017/08/exploring-and-visualizing-open-global.html) by Google Research
 
 *Guides & Tutorials*
-- [TensorFlow tutorial for drawing classification](https://www.tensorflow.org/versions/master/tutorials/recurrent_quickdraw)
+- [TensorFlow tutorial for drawing classification](https://www.tensorflow.org/tutorials/sequences/recurrent_quickdraw)
 - [Train a model in tf.keras with Colab, and run it in the browser with TensorFlow.js](https://medium.com/tensorflow/train-on-google-colab-and-run-on-the-browser-a-case-study-8a45f9b1474e) by Zaid Alyafeai
 
 *Code and tools*
