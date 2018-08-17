@@ -116,6 +116,7 @@ Here are some projects and experiments that are using or featuring the dataset i
 - [Infinite QuickDraw](https://kynd.github.io/infinite_quickdraw/) by [kynd.info](http://kynd.info)
 - [Misfire.io](http://misfire.io/) by Matthew Collyer
 - [Draw This](http://danmacnish.com/2018/07/01/draw-this/) by [Dan Macnish](http://danmacnish.com/)
+- [Scribbling Speech](http://xinyue.de/scribbling-speech.html) by [Xinyue Yang](http://xinyue.de/)
 
 *Data analyses*
 
