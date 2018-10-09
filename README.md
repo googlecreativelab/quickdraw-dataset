@@ -117,7 +117,6 @@ Here are some projects and experiments that are using or featuring the dataset i
 - [Misfire.io](http://misfire.io/) by Matthew Collyer
 - [Draw This](http://danmacnish.com/2018/07/01/draw-this/) by [Dan Macnish](http://danmacnish.com/)
 - [Scribbling Speech](http://xinyue.de/scribbling-speech.html) by [Xinyue Yang](http://xinyue.de/)
-- [RealTime QuickDraw](https://github.com/akshaybahadur21/QuickDraw) by [Akshay Bahadur](http://akshaybahadur.com/)
 
 *Data analyses*
 
@@ -142,6 +141,7 @@ Here are some projects and experiments that are using or featuring the dataset i
 - [~ Doodler ~](https://github.com/krishnasriSomepalli/cs50-project/) by [
 Krishna Sri Somepalli](https://krishnasrisomepalli.github.io/)
 - [quickdraw Python API](http://quickdraw.readthedocs.io) by [Martin O'Hanlon](https://github.com/martinohanlon)
+- [RealTime QuickDraw](https://github.com/akshaybahadur21/QuickDraw) by [Akshay Bahadur](http://akshaybahadur.com/)
 
 
 ## Changes
