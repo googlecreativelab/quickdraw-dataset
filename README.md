@@ -142,6 +142,7 @@ Here are some projects and experiments that are using or featuring the dataset i
 - [~ Doodler ~](https://github.com/krishnasriSomepalli/cs50-project/) by [
 Krishna Sri Somepalli](https://krishnasrisomepalli.github.io/)
 - [quickdraw Python API](http://quickdraw.readthedocs.io) by [Martin O'Hanlon](https://github.com/martinohanlon)
+- [RealTime QuickDraw](https://github.com/akshaybahadur21/QuickDraw) by [Akshay Bahadur](http://akshaybahadur.com/)
 
 
 ## Changes
