@@ -133,6 +133,7 @@ Here are some projects and experiments that are using or featuring the dataset i
 - [Train a model in tf.keras with Colab, and run it in the browser with TensorFlow.js](https://medium.com/tensorflow/train-on-google-colab-and-run-on-the-browser-a-case-study-8a45f9b1474e) by Zaid Alyafeai
 
 *Code and tools*
+- [Quick, Draw! Polymer Component & Data API](https://github.com/googlecreativelab/quickdraw-component) by Nick Jonas
 - [Quick, Draw for Processing](https://github.com/codybenlewis/Quick-Draw-for-Processing) by [Cody Ben Lewis](https://twitter.com/CodyBenLewis)
 - [Quick, Draw! prediction model](https://github.com/keisukeirie/quickdraw_prediction_model) by Keisuke Irie 
 - [Random sample tool](http://learning.statistics-is-awesome.org/draw/) by [Learning statistics is awesome](http://learning.statistics-is-awesome.org/)
