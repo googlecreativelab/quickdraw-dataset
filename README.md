@@ -117,6 +117,7 @@ Here are some projects and experiments that are using or featuring the dataset i
 - [Misfire.io](http://misfire.io/) by Matthew Collyer
 - [Draw This](http://danmacnish.com/2018/07/01/draw-this/) by [Dan Macnish](http://danmacnish.com/)
 - [Scribbling Speech](http://xinyue.de/scribbling-speech.html) by [Xinyue Yang](http://xinyue.de/)
+- [illustrAItion](http://www.illustraition.net/) by [Ling Chen](https://github.com/lingchen42/illustrAItion)
 
 *Data analyses*
 
