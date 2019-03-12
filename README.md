@@ -118,6 +118,8 @@ Here are some projects and experiments that are using or featuring the dataset i
 - [Draw This](http://danmacnish.com/2018/07/01/draw-this/) by [Dan Macnish](http://danmacnish.com/)
 - [Scribbling Speech](http://xinyue.de/scribbling-speech.html) by [Xinyue Yang](http://xinyue.de/)
 - [illustrAItion](http://www.illustraition.net/) by [Ling Chen](https://github.com/lingchen42/illustrAItion)
+- [Dreaming of Electric Sheep](https://medium.com/@libreai/dreaming-of-electric-sheep-d1aca32545dc) by [
+Dr. Ernesto Diaz-Aviles](http://ernesto.diazaviles.com/)
 
 *Data analyses*
 
