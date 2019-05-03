@@ -85,7 +85,7 @@ There is an example in [examples/binary_file_parser.py](examples/binary_file_par
 There is also an example in [examples/nodejs/binary-parser.js](examples/nodejs/binary-parser.js) showing how to read the binary files in NodeJS.
 
 #### Numpy bitmaps (`.npy`)
-All the simplified drawings have been rendered into a 28x28 grayscale bitmap in numpy `.npy` format. The files can be loaded with [`np.load()`](https://docs.scipy.org/doc/numpy-1.12.0/reference/generated/numpy.load.html). These images were generated from the simplified data, but are aligned to the center of the drawing's bounding box rather than the top-left corner.
+All the simplified drawings have been rendered into a 28x28 grayscale bitmap in numpy `.npy` format. The files can be loaded with [`np.load()`](https://docs.scipy.org/doc/numpy-1.12.0/reference/generated/numpy.load.html). These images were generated from the simplified data, but are aligned to the center of the drawing's bounding box rather than the top-left corner. [See here for code snippet used for generation](https://github.com/googlecreativelab/quickdraw-dataset/issues/19#issuecomment-402247262).
 
 ## Get the data
 The dataset is available on Google Cloud Storage as [`ndjson`](http://ndjson.org/) files seperated by category. See the list of files in [Cloud Console](https://console.cloud.google.com/storage/quickdraw_dataset/), or read more about [accessing public datasets](https://cloud.google.com/storage/docs/access-public-data) using other methods. As an example, to easily download all simplified drawings, one way is to run the command `gsutil -m cp gs://quickdraw_dataset/full/simplified/*.ndjson .` 
