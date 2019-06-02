@@ -167,23 +167,23 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
   </tr>
   <tr>
     <td>name</td>
-   <td><pre itemprop="name">The Quick, Draw! Dataset</pre></td>
+    <td><code itemprop="name">The Quick, Draw! Dataset</code></td>
   </tr>
   <tr>
     <td>alternateName</td>
-    <td itemprop="alternateName">Quick Draw Dataset</td>
+    <td><code itemprop="alternateName">Quick Draw Dataset</code></td>
   </tr>
   <tr>
     <td>alternateName</td>
-    <td itemprop="alternateName">quickdraw-dataset</td>
+    <td><code itemprop="alternateName">quickdraw-dataset</code></td>
   </tr>
   <tr>
     <td>url</td>
-    <td itemprop="url">https://github.com/googlecreativelab/quickdraw-dataset</td>
+    <td><code itemprop="url">https://github.com/googlecreativelab/quickdraw-dataset</code></td>
   </tr>
   <tr>
     <td>sameAs</td>
-    <td itemprop="sameAs">https://github.com/googlecreativelab/quickdraw-dataset</td>
+    <td><code itemprop="sameAs">https://github.com/googlecreativelab/quickdraw-dataset</code></td>
   </tr>
   <tr>
     <td>description</td>
@@ -202,11 +202,11 @@ Example drawings:
           </tr>
           <tr>
             <td>name</td>
-            <td itemprop="name">Google</td>
+            <td><code itemprop="name">Google</code></td>
           </tr>
           <tr>
             <td>sameAs</td>
-            <td itemprop="sameAs">https://en.wikipedia.org/wiki/Google</td>
+            <td><code itemprop="sameAs">https://en.wikipedia.org/wiki/Google</code></td>
           </tr>
         </table>
       </div>
@@ -223,11 +223,11 @@ Example drawings:
           </tr>
           <tr>
             <td>name</td>
-            <td itemprop="name">CC BY 4.0</td>
+            <td><code itemprop="name">CC BY 4.0</code></td>
           </tr>
           <tr>
             <td>url</td>
-            <td itemprop="url">https://creativecommons.org/licenses/by/4.0/</td>
+            <td><code itemprop="url">https://creativecommons.org/licenses/by/4.0/</code></td>
           </tr>
         </table>
       </div>
