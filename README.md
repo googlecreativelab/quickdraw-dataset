@@ -167,7 +167,7 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
   </tr>
   <tr>
     <td>name</td>
-    <td itemprop="name">The Quick, Draw! Dataset</td>
+   <td><pre itemprop="name">The Quick, Draw! Dataset</pre></td>
   </tr>
   <tr>
     <td>alternateName</td>
@@ -187,10 +187,10 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
   </tr>
   <tr>
     <td>description</td>
-    <td itemprop="description">The Quick Draw Dataset is a collection of 50 million drawings across 345 categories, contributed by players of the game "Quick, Draw!". The drawings were captured as timestamped vectors, tagged with metadata including what the player was asked to draw and in which country the player was located.
+    <td><pre itemprop="description">The Quick Draw Dataset is a collection of 50 million drawings across 345 categories, contributed by players of the game "Quick, Draw!". The drawings were captured as timestamped vectors, tagged with metadata including what the player was asked to draw and in which country the player was located.
 
 Example drawings:
-![preview](https://github.com/googlecreativelab/quickdraw-dataset/blob/master/preview.jpg)</td>
+![preview](https://github.com/googlecreativelab/quickdraw-dataset/blob/master/preview.jpg)</pre></td>
   </tr>
   <tr>
     <td>provider</td>
