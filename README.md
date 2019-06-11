@@ -147,6 +147,7 @@ Dr. Ernesto Diaz-Aviles](http://ernesto.diazaviles.com/)
 Krishna Sri Somepalli](https://krishnasrisomepalli.github.io/)
 - [quickdraw Python API](http://quickdraw.readthedocs.io) by [Martin O'Hanlon](https://github.com/martinohanlon)
 - [RealTime QuickDraw](https://github.com/akshaybahadur21/QuickDraw) by [Akshay Bahadur](http://akshaybahadur.com/)
+- [DataFlow processing](https://github.com/gxercavins/dataflow-samples/tree/master/quick-draw) by Guillem Xercavins 
 
 
 ## Changes
