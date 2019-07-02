@@ -191,7 +191,7 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
     <td><code itemprop="description">The Quick Draw Dataset is a collection of 50 million drawings across 345 categories, contributed by players of the game "Quick, Draw!". The drawings were captured as timestamped vectors, tagged with metadata including what the player was asked to draw and in which country the player was located.\n
 \n
 Example drawings:
-![preview](https://github.com/googlecreativelab/quickdraw-dataset/blob/master/preview.jpg)</code></td>
+![preview](https://raw.githubusercontent.com/googlecreativelab/quickdraw-dataset/master/preview.jpg)</code></td>
   </tr>
   <tr>
     <td>provider</td>
