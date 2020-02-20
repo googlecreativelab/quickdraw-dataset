@@ -131,6 +131,14 @@ Dr. Ernesto Diaz-Aviles](http://ernesto.diazaviles.com/)
 - [Exploring and Visualizing an Open Global Dataset](https://research.googleblog.com/2017/08/exploring-and-visualizing-open-global.html) by Google Research
 - [Machine Learning for Visualization](https://medium.com/@enjalot/machine-learning-for-visualization-927a9dff1cab) - Talk / article by Ian Johnson
 
+*Papers*
+- [A Neural Representation of Sketch Drawings](https://arxiv.org/pdf/1704.03477.pdf) by [David Ha](https://scholar.google.com/citations?user=J1j92GsxVUMC&hl=en), [Douglas Eck](https://scholar.google.com/citations?user=bLb3VdIAAAAJ&hl=en), ICLR 2018. [code](https://github.com/tensorflow/magenta/tree/master/magenta/models/sketch_rnn)
+- [Sketchmate: Deep hashing for million-scale human sketch retrieval](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_SketchMate_Deep_Hashing_CVPR_2018_paper.pdf) by [Peng Xu](http://www.pengxu.net/) et al., CVPR 2018.
+- [Multi-graph transformer for free-hand sketch recognition](https://arxiv.org/pdf/1912.11258.pdf) by [Peng Xu](http://www.pengxu.net/), [Chaitanya K Joshi](https://chaitjo.github.io/), [Xavier Bresson](https://www.ntu.edu.sg/home/xbresson/), ArXiv 2019. [code](https://github.com/PengBoXiangShang/multigraph_transformer)
+- [Deep Self-Supervised Representation Learning for Free-Hand Sketch](https://arxiv.org/pdf/2002.00867.pdf) by [Peng Xu](http://www.pengxu.net/) et al., ArXiv 2020. [code](https://github.com/zzz1515151/self-supervised_learning_sketch)
+- [SketchTransfer: A Challenging New Task for Exploring Detail-Invariance and the Abstractions Learned by Deep Networks](https://arxiv.org/pdf/1912.11570.pdf) by [Alex Lamb](https://sites.google.com/view/alexmlamb), [Sherjil Ozair](https://sherjilozair.github.io/), [Vikas Verma](https://scholar.google.com/citations?user=wo_M4uQAAAAJ&hl=en), [David Ha](https://scholar.google.com/citations?user=J1j92GsxVUMC&hl=en), WACV 2020.
+- [Deep Learning for Free-Hand Sketch: A Survey](https://arxiv.org/pdf/2001.02600.pdf) by [Peng Xu](http://www.pengxu.net/), ArXiv 2020.
+
 *Guides & Tutorials*
 - [TensorFlow tutorial for drawing classification](https://www.tensorflow.org/tutorials/sequences/recurrent_quickdraw)
 - [Train a model in tf.keras with Colab, and run it in the browser with TensorFlow.js](https://medium.com/tensorflow/train-on-google-colab-and-run-on-the-browser-a-case-study-8a45f9b1474e) by Zaid Alyafeai
