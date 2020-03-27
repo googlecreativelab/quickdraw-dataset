@@ -7,7 +7,7 @@ We're sharing them here for developers, researchers, and artists to explore, stu
 
 We have also released a tutorial and model for training your own drawing classifier on [tensorflow.org](https://www.tensorflow.org/tutorials/sequences/recurrent_quickdraw).
 
-Please keep in mind that while this collection of drawings was individually moderated, it may still contain inappropriate content.
+Please keep in mind that while this collection of drawings was individually moderated, it may still contain inappropriate content. Therefore we have added the feature to report inappropriate drawings to prevent the neural network from being messed up.
 
 ## Content
 - [The raw moderated dataset](#the-raw-moderated-dataset)
