@@ -25,7 +25,7 @@ limitations under the License.
 */
 var fs = require('fs');
 var ndjson = require('ndjson'); // npm install ndjson
-
+var nodejs = require('nodejs'); // npm install nodejs
 function parseSimplifiedDrawings(fileName, callback) {
   var drawings = [];
   var fileStream = fs.createReadStream(fileName)
