@@ -44,6 +44,7 @@ bridge
 broccoli
 broom
 bucket
+bulb
 bulldozer
 bus
 bush
@@ -154,6 +155,7 @@ hourglass
 house
 house plant
 hurricane
+hut
 ice cream
 jacket
 jail
