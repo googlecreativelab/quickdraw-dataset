@@ -17,7 +17,7 @@ The drawings (stroke data and associated metadata) are stored as one JSON object
 }
 ```
 
-Each file represents all of the drawings for a given word. So you'll want to download the one you want.
+Each file represents all of the drawings for a given word. So, you can download the one you want.
 For this exploration we will focus on the [simplified drawings](https://pantheon.corp.google.com/storage/browser/quickdraw_dataset/full/simplified)
 because the files are about 10x smaller and the drawings look just as good.
 We do lose timing information available in the raw data, so feel free to explore that when you are comfortable navigating the data (the format is pretty much exactly the same besides the added timing array and more points in the stroke data.)
