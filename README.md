@@ -105,6 +105,10 @@ We have also provided the full data for each category, if you want to use more t
 
 - [Numpy .npz files](https://console.cloud.google.com/storage/quickdraw_dataset/sketchrnn)
 
+*Note:* For Python3, loading the `npz` files using `np.load(data_filepath, encoding='latin1', allow_pickle=True)`
+
+Instructions for converting Raw `ndjson` files to this `npz` format is available in this [notebook](https://github.com/hardmaru/quickdraw-ndjson-to-npz).
+
 ## Projects using the dataset
 Here are some projects and experiments that are using or featuring the dataset in interesting ways. Got something to add? [Let us know!](mailto:quickdraw-support@google.com)
 
