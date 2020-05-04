@@ -18,7 +18,7 @@ from struct import unpack
 
 def unpack_drawing(file_handle):
     key_id, = unpack('Q', file_handle.read(8))
-    countrycode, = unpack('2s', file_handle.read(2))
+    country_code, = unpack('2s', file_handle.read(2))
     recognized, = unpack('b', file_handle.read(1))
     timestamp, = unpack('I', file_handle.read(4))
     n_strokes, = unpack('H', file_handle.read(2))
@@ -32,7 +32,7 @@ def unpack_drawing(file_handle):
 
     return {
         'key_id': key_id,
-        'countrycode': countrycode,
+        'country_code': country_code,
         'recognized': recognized,
         'timestamp': timestamp,
         'image': image
@@ -50,4 +50,4 @@ def unpack_drawings(filename):
 
 for drawing in unpack_drawings('nose.bin'):
     # do something with the drawing
-    print(drawing['countrycode'])
+    print(drawing['country_code'])
