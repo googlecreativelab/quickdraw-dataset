@@ -24,7 +24,7 @@ We do lose timing information available in the raw data, so feel free to explore
 
 # Let's explore the `face` collection!
 
-One nice thing you can do with ndjson is quickly peek at the data using some simple unix commands:
+One nice thing that you can do with `.ndjson` files are to quickly peek at the data using some simple Unix commands:
 
 ```bash
 # look at the first 5 lines
@@ -50,7 +50,7 @@ cat face.ndjson | ndjson-filter 'd.recognized == true && d.countrycode == "CA"' 
 
 ## Sorting
 
-For sorting we can make things easier by including d3, this means you'll need to `npm install d3` in the directory from which you are calling these commands.
+For sorting, you can make things easier by including d3. This means you'll need to `npm install d3` in the directory from which you are calling these commands.
 ```bash
 # sort by when the drawing was created
 cat face.ndjson | ndjson-sort -r d3 'd3.ascending(a.timestamp, b.timestamp)' | head -n 5
@@ -60,7 +60,7 @@ cat face.ndjson | ndjson-sort -r d3 'd3.descending(a.drawing.length, b.drawing.l
 ```
 
 ## Saving to JSON
-If we want to save out a subset as a regular json file we can use `ndjson-reduce`:
+If you want to save out a subset as a regular JSON file, you can use `ndjson-reduce`:
 ```bash
 # save to the file "canadian-faces.json"
 cat face.ndjson | ndjson-filter 'd.recognized == true && d.countrycode == "CA"' | ndjson-reduce > canadian-faces.json
