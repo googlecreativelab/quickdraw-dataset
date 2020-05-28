@@ -36,12 +36,10 @@ var Drawing = Parser.start()
   // .uint8('recognized')
   .bit1('recognized')
   .uint32le('timestamp') // unix timestamp in seconds
-  .uint8('n_strokes')
-  .uint8('foo')
+  .uint16le('n_strokes')
   .array('strokes', {
     type: Parser.start()
-      .uint8('n_points')
-      .uint8('foo')
+      .uint16le('n_points')
       .array('x', {
         type: 'uint8',
         length: 'n_points'
