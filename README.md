@@ -142,6 +142,7 @@ Dr. Ernesto Diaz-Aviles](http://ernesto.diazaviles.com/)
 - [Deep Self-Supervised Representation Learning for Free-Hand Sketch](https://arxiv.org/pdf/2002.00867.pdf) by [Peng Xu](http://www.pengxu.net/) et al., ArXiv 2020. [code](https://github.com/zzz1515151/self-supervised_learning_sketch)
 - [SketchTransfer: A Challenging New Task for Exploring Detail-Invariance and the Abstractions Learned by Deep Networks](https://arxiv.org/pdf/1912.11570.pdf) by [Alex Lamb](https://sites.google.com/view/alexmlamb), [Sherjil Ozair](https://sherjilozair.github.io/), [Vikas Verma](https://scholar.google.com/citations?user=wo_M4uQAAAAJ&hl=en), [David Ha](https://scholar.google.com/citations?user=J1j92GsxVUMC&hl=en), WACV 2020.
 - [Deep Learning for Free-Hand Sketch: A Survey](https://arxiv.org/pdf/2001.02600.pdf) by [Peng Xu](http://www.pengxu.net/), ArXiv 2020.
+- [A Novel Sketch Recognition Model based on Convolutional Neural Networks](https://ieeexplore.ieee.org/document/9152911) by [Abdullah Talha Kabakus](https://www.linkedin.com/in/talhakabakus), 2nd International Congress on Human-Computer Interaction, Optimization and Robotic Applications, pp. 101-106, 2020.
 
 *Guides & Tutorials*
 - [TensorFlow tutorial for drawing classification](https://www.tensorflow.org/tutorials/sequences/recurrent_quickdraw)
