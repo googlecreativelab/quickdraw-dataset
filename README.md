@@ -161,7 +161,7 @@ Krishna Sri Somepalli](https://krishnasrisomepalli.github.io/)
 - [quickdraw Python API](http://quickdraw.readthedocs.io) by [Martin O'Hanlon](https://github.com/martinohanlon)
 - [RealTime QuickDraw](https://github.com/akshaybahadur21/QuickDraw) by [Akshay Bahadur](http://akshaybahadur.com/)
 - [DataFlow processing](https://github.com/gxercavins/dataflow-samples/tree/master/quick-draw) by Guillem Xercavins 
-- [QuickDrawGH](https://www.food4rhino.com/app/quickdrawgh) by [James Dalessandro](https://github.com/DalessandroJ)
+- [QuickDrawGH Rhino Plugin](https://www.food4rhino.com/app/quickdrawgh) by [James Dalessandro](https://github.com/DalessandroJ)
 
 
 ## Changes
