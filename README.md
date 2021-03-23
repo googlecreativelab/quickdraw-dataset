@@ -145,7 +145,7 @@ Dr. Ernesto Diaz-Aviles](http://ernesto.diazaviles.com/)
 - [A Novel Sketch Recognition Model based on Convolutional Neural Networks](https://ieeexplore.ieee.org/document/9152911) by [Abdullah Talha Kabakus](https://www.linkedin.com/in/talhakabakus), 2nd International Congress on Human-Computer Interaction, Optimization and Robotic Applications, pp. 101-106, 2020.
 
 *Guides & Tutorials*
-- [TensorFlow tutorial for drawing classification](https://www.tensorflow.org/tutorials/sequences/recurrent_quickdraw)
+- [TensorFlow tutorial for drawing classification](https://github.com/tensorflow/docs/blob/master/site/en/r1/tutorials/sequences/recurrent_quickdraw.md)
 - [Train a model in tf.keras with Colab, and run it in the browser with TensorFlow.js](https://medium.com/tensorflow/train-on-google-colab-and-run-on-the-browser-a-case-study-8a45f9b1474e) by Zaid Alyafeai
 
 *Code and tools*
