@@ -162,6 +162,7 @@ Krishna Sri Somepalli](https://krishnasrisomepalli.github.io/)
 - [RealTime QuickDraw](https://github.com/akshaybahadur21/QuickDraw) by [Akshay Bahadur](http://akshaybahadur.com/)
 - [DataFlow processing](https://github.com/gxercavins/dataflow-samples/tree/master/quick-draw) by Guillem Xercavins 
 - [QuickDrawGH Rhino Plugin](https://www.food4rhino.com/app/quickdrawgh) by [James Dalessandro](https://github.com/DalessandroJ)
+- [QuickDrawBattle](https://andri.io/quickdrawbattle/) by [Andri Soone](https://github.com/ndri)
 
 
 ## Changes
