@@ -88,13 +88,14 @@ There is also an example in [examples/nodejs/binary-parser.js](examples/nodejs/b
 All the simplified drawings have been rendered into a 28x28 grayscale bitmap in numpy `.npy` format. The files can be loaded with [`np.load()`](https://docs.scipy.org/doc/numpy-1.12.0/reference/generated/numpy.load.html). These images were generated from the simplified data, but are aligned to the center of the drawing's bounding box rather than the top-left corner. [See here for code snippet used for generation](https://github.com/googlecreativelab/quickdraw-dataset/issues/19#issuecomment-402247262).
 
 ## Get the data
-The dataset is available on Google Cloud Storage as [`ndjson`](http://ndjson.org/) files seperated by category. See the list of files in [Cloud Console](https://console.cloud.google.com/storage/quickdraw_dataset/), or read more about [accessing public datasets](https://cloud.google.com/storage/docs/access-public-data) using other methods. As an example, to easily download all simplified drawings, one way is to run the command `gsutil -m cp 'gs://quickdraw_dataset/full/simplified/*.ndjson' .` 
+The dataset is available on Google Cloud Storage as [`ndjson`](http://ndjson.org/) files seperated by category. See the list of files in [Cloud 
+](https://console.cloud.google.com/storage/browser/quickdraw_dataset/), or read more about [accessing public datasets](https://cloud.google.com/storage/docs/access-public-data) using other methods. As an example, to easily download all simplified drawings, one way is to run the command `gsutil -m cp 'gs://quickdraw_dataset/full/simplified/*.ndjson' .` 
 
 #### Full dataset seperated by categories
-- [Raw files](https://console.cloud.google.com/storage/quickdraw_dataset/full/raw) (`.ndjson`)
-- [Simplified drawings files](https://console.cloud.google.com/storage/quickdraw_dataset/full/simplified) (`.ndjson`)
-- [Binary files](https://console.cloud.google.com/storage/quickdraw_dataset/full/binary) (`.bin`)
-- [Numpy bitmap files](https://console.cloud.google.com/storage/quickdraw_dataset/full/numpy_bitmap) (`.npy`)
+- [Raw files](https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/raw) (`.ndjson`)
+- [Simplified drawings files](https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/simplified) (`.ndjson`)
+- [Binary files](https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/binary) (`.bin`)
+- [Numpy bitmap files](https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/numpy_bitmap) (`.npy`)
 
 #### Sketch-RNN QuickDraw Dataset
 This data is also used for training the [Sketch-RNN](https://arxiv.org/abs/1704.03477) model.  An open source, TensorFlow implementation of this model is available in the [Magenta Project](https://magenta.tensorflow.org/sketch_rnn), (link to GitHub [repo](https://github.com/tensorflow/magenta/tree/master/magenta/models/sketch_rnn)).  You can also read more about this model in this Google Research [blog post](https://research.googleblog.com/2017/04/teaching-machines-to-draw.html).  The data is stored in compressed `.npz` files, in a format suitable for inputs into a recurrent neural network.
@@ -103,7 +104,7 @@ In this dataset, 75K samples (70K Training, 2.5K Validation, 2.5K Test) has been
 
 We have also provided the full data for each category, if you want to use more than 70K training examples.  These are stored with the `.full.npz` extensions.
 
-- [Numpy .npz files](https://console.cloud.google.com/storage/quickdraw_dataset/sketchrnn)
+- [Numpy .npz files](https://console.cloud.google.com/storage/browser/quickdraw_dataset/sketchrnn)
 
 *Note:* For Python3, loading the `npz` files using `np.load(data_filepath, encoding='latin1', allow_pickle=True)`
 
