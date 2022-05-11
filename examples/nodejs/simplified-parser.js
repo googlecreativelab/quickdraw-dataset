@@ -29,6 +29,7 @@ var ndjson = require('ndjson'); // npm install ndjson
 function parseSimplifiedDrawings(fileName, callback) {
   var drawings = [];
   var fileStream = fs.createReadStream(fileName)
+ 
   fileStream
     .pipe(ndjson.parse())
     .on('data', function(obj) {
@@ -37,6 +38,8 @@ function parseSimplifiedDrawings(fileName, callback) {
     .on("error", callback)
     .on("end", function() {
       callback(null, drawings)
+      callback(1,drawings)
+      callback(fileStream,drawings)
     });
 }
 
