@@ -148,6 +148,7 @@ Dr. Ernesto Diaz-Aviles](http://ernesto.diazaviles.com/)
 *Guides & Tutorials*
 - [TensorFlow tutorial for drawing classification](https://github.com/tensorflow/docs/blob/master/site/en/r1/tutorials/sequences/recurrent_quickdraw.md)
 - [Train a model in tf.keras with Colab, and run it in the browser with TensorFlow.js](https://medium.com/tensorflow/train-on-google-colab-and-run-on-the-browser-a-case-study-8a45f9b1474e) by Zaid Alyafeai
+- [Recognizing hand drawn Doodles using Deep Learning](https://larswaechter.dev/blog/recognizing-hand-drawn-doodles/) by [Lars Wächter](https://github.com/larswaechter)
 
 *Code and tools*
 - [Quick, Draw! Polymer Component & Data API](https://github.com/googlecreativelab/quickdraw-component) by Nick Jonas
