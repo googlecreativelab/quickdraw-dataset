@@ -344,3 +344,21 @@ yoga
 zebra
 zigzag
 bone
+bomb
+cogs
+chicken
+cow
+duck
+the ugly ducking
+soda
+choclate
+spam
+fried chicken
+pot
+rag
+cave
+ruler
+sweet pepper
+bell pepper
+chilli pepper
+chapstick
