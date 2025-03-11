@@ -19,7 +19,7 @@ Please keep in mind that while this collection of drawings was individually mode
 
 
 ## The raw moderated dataset
-The raw data is available as [`ndjson`](http://ndjson.org/) files seperated by category, in the following format: 
+The raw data is available as [`ndjson`](https://github.com/ndjson) files seperated by category, in the following format: 
 
 | Key          | Type                   | Description                                  |
 | ------------ | -----------------------| -------------------------------------------- |
@@ -67,8 +67,8 @@ Where `x` and `y` are the pixel coordinates, and `t` is the time in milliseconds
 ## Preprocessed dataset
 We've preprocessed and split the dataset into different files and formats to make it faster and easier to download and explore.
 
-#### Simplified Drawing files (`.ndjson`)
-We've simplified the vectors, removed the timing information, and positioned and scaled the data into a 256x256 region. The data is exported in [`ndjson`](http://ndjson.org/) format with the same metadata as the raw format. The simplification process was:
+#### Simplified Drawing files (`.`)
+We've simplified the vectors, removed the timing information, and positioned and scaled the data into a 256x256 region. The data is exported in [`ndjson`](https://github.com/ndjson) format with the same metadata as the raw format. The simplification process was:
 
 1. Align the drawing to the top-left corner, to have minimum values of 0.
 2. Uniformly scale the drawing, to have a maximum value of 255. 
@@ -88,7 +88,7 @@ There is also an example in [examples/nodejs/binary-parser.js](examples/nodejs/b
 All the simplified drawings have been rendered into a 28x28 grayscale bitmap in numpy `.npy` format. The files can be loaded with [`np.load()`](https://docs.scipy.org/doc/numpy-1.12.0/reference/generated/numpy.load.html). These images were generated from the simplified data, but are aligned to the center of the drawing's bounding box rather than the top-left corner. [See here for code snippet used for generation](https://github.com/googlecreativelab/quickdraw-dataset/issues/19#issuecomment-402247262).
 
 ## Get the data
-The dataset is available on Google Cloud Storage as [`ndjson`](http://ndjson.org/) files seperated by category. See the list of files in [Cloud 
+The dataset is available on Google Cloud Storage as [`ndjson`](https://github.com/ndjson) files seperated by category. See the list of files in [Cloud 
 ](https://console.cloud.google.com/storage/browser/quickdraw_dataset/), or read more about [accessing public datasets](https://cloud.google.com/storage/docs/access-public-data) using other methods. As an example, to easily download all simplified drawings, one way is to run the command `gsutil -m cp 'gs://quickdraw_dataset/full/simplified/*.ndjson' .` 
 
 #### Full dataset seperated by categories
